@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\phillab2\phillab2\main.cpp(89): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  PHILLAB2.vcxproj -> G:\PHILLAB2\Debug\PHILLAB2.exe
+  PHILLAB2.vcxproj -> G:\PHILLAB2\Debug\PHILLAB2.pdb (Partial PDB)

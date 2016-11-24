@@ -1,0 +1,9 @@
+﻿  Vector3.cpp
+e:\mathclasses\mathclasses\vector3.cpp(122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\mathclasses\mathclasses\vector3.cpp(133): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Matrix3.cpp
+e:\mathclasses\mathclasses\matrix3.cpp(205): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  mathClasses.vcxproj -> E:\mathClasses\Debug\mathClasses.exe
+  mathClasses.vcxproj -> E:\mathClasses\Debug\mathClasses.pdb (Partial PDB)
